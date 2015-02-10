@@ -1,3 +1,2 @@
 # test
-My first repository on GitHub
-test
+My first repository on GitHub.
